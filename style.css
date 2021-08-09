@@ -1,0 +1,60 @@
+@import url("https://fast.fonts.net/lt/1.css?apiType=css&c=82efa5a1-c436-4d5f-9691-ba68f25eab59&fontids=5663870");
+    @font-face{
+        font-family:"Helvetica Neue LT W05_93 Blk E";
+        src:url("Fonts/5663870/275e1e1e-08b1-4fe8-952b-5484d602fa4e.woff2") format("woff2"),url("Fonts/5663870/4996b52c-3eb3-43f9-b701-452d8179a1de.woff") format("woff");
+    }
+
+body {
+    margin: 0%;
+    padding: 0%;
+    background-color: #333333;
+}
+div {
+    justify-items: center;
+}
+
+#text1{
+    font-family: "Helvetica Neue LT W05_93 Blk E";
+    transform: scale(1,1.3);
+    font-size: 4em;
+    color: #ffffff;
+    text-align: center;
+    margin: 2%;
+}
+
+#text2{
+    font-family: "Helvetica Neue LT W05_93 Blk E";
+    transform: scale(1,1.3);
+    font-size: 6em;
+    color: #ffffff;
+    text-align: center;
+    margin: 0%;
+    margin-top: 2%;
+}
+
+#text3{
+    font-family: "Helvetica Neue LT W05_93 Blk E";
+    font-size: 3.5em;
+    color: #ffffff;
+    text-align: center;
+    margin: 0%;
+}
+
+#text4{
+    font-family: sans-serif;
+    font-weight: bold;
+    font-size: 1.5em;
+    color: #ffffff;
+    text-align: center;
+}
+#video1 {
+    width: 1080px;
+    height: 568px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+a {
+    color: rgb(196, 196, 196);
+    text-decoration: none
+}
